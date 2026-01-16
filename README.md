@@ -54,7 +54,7 @@ This structure improves scalability, maintainability, and code clarity.
 
 ## 👤 Author
 
-**Astha Dakhinray**  
+**Aditya Dikshit**  
 BTech CSE (AIML)  
 Interested in backend systems, scalable architectures, and real-world application development.
 
